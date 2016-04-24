@@ -23,3 +23,4 @@
     </ScrollView>
 </LinearLayout>
 //多了一个ScrollView控件,用于将屏幕显示不下的,通过滚动的形式查看屏幕外的那部分内容
+//以及在AndroidManifest中添加用户权限,允许访问网络<uses-permission android:name="android.permission.INTERNET"/>
